@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: mokainos/podinfo
-      tag: dev-
+      tag: dev-nzgtytki
     replicaCount: 1
     hpa:
       enabled: false
